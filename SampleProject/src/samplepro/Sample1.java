@@ -11,6 +11,7 @@ public class Sample1 {
          System.out.println("Todays date:"+time+"");
          System.out.println("hellooo.hii....");
          System.out.println("Update");
+         System.out.println("OREOph");
 	}
 
 }
